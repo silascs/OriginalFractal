@@ -20,4 +20,5 @@ public void fractal(double x, double y, double siz)
 		fractal(x-siz/2, y+siz/2, siz/1.975);
 		fractal(x+siz/2, y-siz/2, siz/1.975);
 	}
+	//test
 }
