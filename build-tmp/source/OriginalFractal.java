@@ -36,6 +36,7 @@ public void fractal(double x, double y, double siz)
 		fractal(x-siz/2, y+siz/2, siz/1.975f);
 		fractal(x+siz/2, y-siz/2, siz/1.975f);
 	}
+	//test
 }
   public void settings() { 	size(500, 500); }
   static public void main(String[] passedArgs) {
